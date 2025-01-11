@@ -7,7 +7,8 @@ a clone of www.fake.cn in 2025
   2. clone this repository
 
           git clone https://github.com/maoruiQa/fake-flash.cn.git
-  3. start the phishing server
+  3. decompression the fake-flash.cn.zip
+  4. start the phishing server
 
           cd fake-flash.cn
           python -m http.server 80
