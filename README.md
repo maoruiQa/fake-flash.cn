@@ -1,5 +1,6 @@
 # fake-flash.cn
 a clone of www.fake.cn in 2025
+![image](https://github.com/user-attachments/assets/f6cd1650-2676-433f-b6e0-e100f5d6854e)
 
 
 # Quickly Setup
