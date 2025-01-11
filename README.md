@@ -4,4 +4,10 @@ a clone of www.fake.cn in 2025
 
 # Quickly Setup
   1. install python3
-  2.  
+  2. clone this repository
+
+          git clone https://github.com/maoruiQa/fake-flash.cn.git
+  3. start the phishing server
+
+          cd fake-flash.cn
+          python -m http.server 80
